@@ -1,10 +1,10 @@
 # Fibo_1
 Raspberry Pi based project. A ball following robot using Raspberry Pi camera module.
 
-# Equipment used:
+# Equipment used
 - Raspberry Pi 3 model B
 - Raspberry Pi Camera V2
-- L298N Dual H Bridge DC Stepper Motor Drive Controller
+- L298N Dual H Bridge DC Stepper Motor Driver Controller
 - Power supply for Raspberry Pi (any suitable)
 - Power supply for motors (6 x AA battery)
 - Devastator tank from DFRobot (Any robot can be used. Check technical specifications of your's and make changes accordingly.)
@@ -23,3 +23,7 @@ Once the correct rectangle was established (object in interest was found), the '
 
 # Disclaimer
 Although all precautions were taken to work safely, I do not accept any responsibility for damaged equipment, nor harm to people. Safety first, be safe ...
+
+# Shopping
+Motor driver controller : https://www.amazon.co.uk/Module-Bridge-Driver-Stepper-Controller/dp/B07H76LH76/ref=sr_1_7?keywords=l298n+driver+board&qid=1556728850&s=gateway&sr=8-7
+Devastator robot : https://www.dfrobot.com/product-1477.html
