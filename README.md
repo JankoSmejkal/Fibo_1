@@ -26,4 +26,5 @@ Although all precautions were taken to work safely, I do not accept any responsi
 
 # Shopping
 Motor driver controller : https://www.amazon.co.uk/Module-Bridge-Driver-Stepper-Controller/dp/B07H76LH76/ref=sr_1_7?keywords=l298n+driver+board&qid=1556728850&s=gateway&sr=8-7
+
 Devastator robot : https://www.dfrobot.com/product-1477.html
